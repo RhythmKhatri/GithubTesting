@@ -1,4 +1,4 @@
-let testing='testing';
-console.log('testing')
+let testing='fghjk.';
+console.log('asdfg')
 
-let testing2 ='trsting2';
+let testing2 ='asfddsafsdfsd';
